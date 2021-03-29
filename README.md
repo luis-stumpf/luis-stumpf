@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Stumpf
-- 👀 I’m interested in computer sience
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java, Javascript, Python
 
 
