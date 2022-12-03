@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Stumpf
-- 🌱 I’m currently studyng applied computer science at the HTWG Konstanz.
+- 🌱 I’m currently studying applied computer science at the HTWG Konstanz.
 
 
 
